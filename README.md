@@ -4,8 +4,6 @@ This project is a Mortgage Calculator application in Java. It helps users calcul
 
 ## Features
 - Calculate monthly mortgage payments
-- User-friendly interface
-- Easy to use
 
 ## Mortgage Formula
 The formula used to calculate the monthly mortgage payment (M) is:

@@ -1,6 +1,6 @@
 # MortgageCalculate
 
-This project is a Mortgage Calculator application. It helps users calculate their mortgage payments based on principal, interest rate, and loan term.
+This project is a Mortgage Calculator application in Java. It helps users calculate their mortgage payments based on principal, interest rate, and loan term.
 
 ## Features
 - Calculate monthly mortgage payments

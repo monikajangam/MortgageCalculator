@@ -7,10 +7,15 @@ This project is a Mortgage Calculator application. It helps users calculate thei
 - User-friendly interface
 - Easy to use
 
-## Getting Started
-1. Clone the repository
-2. Open the project in your preferred IDE
-3. Run the application
+## Mortgage Formula
+The formula used to calculate the monthly mortgage payment (M) is:
 
-## License
-This project is licensed under the MIT License. 
+```
+M = P * [ r(1 + r)^n ] / [ (1 + r)^n – 1 ]
+```
+
+Where:
+- **M** = monthly payment
+- **P** = principal loan amount
+- **r** = monthly interest rate (annual rate divided by 12)
+- **n** = number of monthly payments (loan term in years × 12) 
